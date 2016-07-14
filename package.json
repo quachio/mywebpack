@@ -1,0 +1,25 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "webpack tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quachio/mywebpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Hung Quach <quachio@icloud.com> (http://quach.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quachio/mywebpack/issues"
+  },
+  "homepage": "https://github.com/quachio/mywebpack#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
